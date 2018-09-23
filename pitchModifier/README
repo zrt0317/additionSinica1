@@ -1,0 +1,14 @@
+PAP.m, PAP1.m: pitch adjustment precise ver
+PAA.m: approx. ver
+pitchDebaser1.fig, pitchDebaser1.m: approx. ver with GUI
+
+example music:
+1."Can't look away.mp3":
+Songname: Can't look away
+Singer: Vivienne(FELT)
+Album: rebirth story ii
+length: 6 min 10 sec
+
+2."refrain.m4a"
+(a refrain part of "Can't look away.mp3")
+length: 32.2 sec
